@@ -67,22 +67,6 @@ Introduzir ao versionamento de código com Git e GitHub.
   <tfoot></tfoot>
 </table>
 
-## Instrutora
-<table>
-  <tr>
-    <td>
-      <img width="80px" align="center" src="https://avatars.githubusercontent.com/elidianaandrade"/>
-    </td>
-    <td align="left">
-      <a href="https://github.com/elidianaandrade">
-        <span><b>Elidiana Andrade</b></span>
-      </a>
-      <br>
-      <span>Desenvolvedora Front-end</span>
-    </td>
-  </tr>
-</table>
-
 ## Referências
 - [GIT. Documentation](https://git-scm.com/doc)
 - [GITHUB. Documentation](https://docs.github.com/)
